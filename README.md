@@ -8,4 +8,4 @@ Email: thomas@kenne.dk
 
 Linkedin: https://www.linkedin.com/in/thomaskenne
 
-**Værktøj**: composer, laravel, compass, git, memcached, varnish, bootstrap, phpunit, icinga, swagger, xdebug, docker
+**Værktøj**: composer, laravel, compass, git, memcached, varnish, bootstrap, phpunit, icinga, swagger, xdebug, docker, vue.js, aws
