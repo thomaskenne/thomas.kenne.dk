@@ -10,4 +10,4 @@ Linkedin: https://www.linkedin.com/in/thomaskenne
 
 Medstifter af Stuff: https://stuff.li
 
-**Værktøj**: composer, laravel, compass, git, memcached, varnish, bootstrap, phpunit, icinga, swagger, xdebug, docker, vue.js, aws, bulma
+**Værktøj**: composer, laravel, compass, git, memcached, varnish, phpunit, xdebug, docker, vue.js, aws, bulma, tailwind css
