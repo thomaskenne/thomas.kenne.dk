@@ -9,5 +9,6 @@ Email: thomas@kenne.dk
 Linkedin: https://www.linkedin.com/in/thomaskenne
 
 ~~Medstifter af Stuff: https://stuff.li~~
+Medstifter af Commis: https://commis.dk
 
 **Værktøj**: composer, laravel, compass, git, memcached, varnish, phpunit, xdebug, docker, vue.js, aws, bulma, tailwind css, shopify
