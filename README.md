@@ -12,4 +12,6 @@ Linkedin: https://www.linkedin.com/in/thomaskenne
 
 Medstifter af Commis: https://commis.dk
 
+CTO hos Min Magi
+
 **Værktøj**: composer, laravel, compass, git, memcached, varnish, phpunit, xdebug, docker, vue.js, aws, tailwind css, shopify
