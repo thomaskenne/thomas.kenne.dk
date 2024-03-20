@@ -14,4 +14,4 @@ Medstifter af Commis: https://commis.dk
 
 CTO hos Min Magi: https://minmagi.dk
 
-**Værktøj**: composer, laravel, compass, git, memcached, varnish, phpunit, xdebug, docker, vue.js, aws, tailwind css, shopify
+**Værktøj**: composer, laravel, livewire, laravel vapor/forge, git, docker, vue.js, aws, tailwind css, shopify
